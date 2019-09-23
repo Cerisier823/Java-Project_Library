@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>LibrarySystem</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Rbook.bin</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/Rbook.bin</locationURI>
+		</link>
+		<link>
+			<name>src/Ruser.bin</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/Ruser.bin</locationURI>
+		</link>
+		<link>
+			<name>src/overdue.bin</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/overdue.bin</locationURI>
+		</link>
+		<link>
+			<name>src/rentdate.bin</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/rentdate.bin</locationURI>
+		</link>
+		<link>
+			<name>src/user.bin</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/user.bin</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
